@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Mishra</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h3 align="center">Passionate problem solver, web developer, and coding enthusiast. Crafting efficient solutions, one algorithm at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-mi&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-mi" /> </p>
 
@@ -22,5 +22,4 @@
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-MI&theme=tokyonight" alt="Anubhav-MI" />
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Anubhav-MI&color=brightgreen)
 
